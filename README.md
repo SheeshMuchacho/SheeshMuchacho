@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheesh</h1>
 <h3 align="center">Software Engineer | 2nd Year Undergraduate | APIIT Colombo Sri Lanka</h3>
-<img align="center" width="400" margin="20px" src="https://i.ibb.co/FsM15GM/output-onlinegiftools.gif">
+<img align="right" width="200" margin="20px" src="https://i.ibb.co/FsM15GM/output-onlinegiftools.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheeshmuchacho&label=Profile%20views&color=0e75b6&style=flat" alt="sheeshmuchacho" /> </p>
 
