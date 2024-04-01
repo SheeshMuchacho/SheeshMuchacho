@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheesh</h1>
 <h3 align="center">Software Engineer | 2nd Year Undergraduate | APIIT Colombo Sri Lanka</h3>
-<img align="right" width="400" margin="20px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN3dXRhZmpzeWF1MTg5b2o4ZDJiZnMwZnB0OHR2dDJobmF6eDlyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif">
+<img align="right" width="400" margin="20px" border-radius="20px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN3dXRhZmpzeWF1MTg5b2o4ZDJiZnMwZnB0OHR2dDJobmF6eDlyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheeshmuchacho&label=Profile%20views&color=0e75b6&style=flat" alt="sheeshmuchacho" /> </p>
 
