@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **apiit-blog**
 
-- 🌱 I’m currently learning **Laravel, Java (data structures) and Flutter**
+- 🌱 I’m currently learning **Laravel, Java and Flutter**
 
 - 📫 How to reach me **sheedh.mashood@gmail.com**
 
