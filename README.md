@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheesh</h1>
+<h1 align="center">I'm Sheesh</h1>
 <h3 align="center">Software Engineer | 2nd Year Undergraduate | APIIT Colombo Sri Lanka</h3>
 <img align="right" width="200" margin="20px" src="https://i.ibb.co/FsM15GM/output-onlinegiftools.gif">
 
