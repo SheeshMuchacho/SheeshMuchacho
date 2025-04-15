@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheeshmuchacho&label=Profile%20views&color=0e75b6&style=flat" alt="sheeshmuchacho" /> </p>
 
-- 🔭 I’m currently working on **block-app**
+- 🔭 I’m currently working on **block-app** and **acumen-site**
 
-- 🌱 I’m currently using **Flutter**
+- 🌱 I’m currently using **Flutter** and **Nextjs**
 
 - 📫 How to reach me **sheedh.mashood@gmail.com**
 
