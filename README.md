@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Sheedh</h1>
-<h3 align="center">Computer Science | 3rd Year Undergraduate | APIIT Colombo Sri Lanka | Working at Acumen Intelligence</h3>
+<h3 align="center">Computer Science | Final Year Undergraduate | APIIT Colombo Sri Lanka | Working at BlueoceanSP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheeshmuchacho&label=Profile%20views&color=0e75b6&style=flat" alt="sheeshmuchacho" /> </p>
 
-- 🔭 I’m currently working on **ai block and acumen website**
+- 🔭 I’m currently working on **portfolio**
 
-- 🌱 I’m currently using **flutter and nextjs**
+- 🌱 I’m currently using **nextjs**
 
 - 📫 How to reach me **sheedh.mashood@gmail.com**
 
