@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sheedh</h1>
-<h3 align="center">Computer Science | Final Year Undergraduate | APIIT Colombo Sri Lanka | Working at BlueoceanSP</h3>
+<h3 align="center">BSc (Hons) Computer Science | Staffordshire University | Working at BlueoceanSP</h3>
 
 - 🚀 **Visit my portfolio:** [click here!](https://sheedhmashood.vercel.app)
 
