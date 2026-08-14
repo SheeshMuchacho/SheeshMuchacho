@@ -3,7 +3,7 @@
 
 - 🚀 **Visit my portfolio:** [click here!](https://sheedhmashood.vercel.app)
 
-- 🔭 I’m currently working on **syzaro**
+- 🔭 I’m currently working on **gggardening**
 
 - 🌱 I’m currently using **nextjs**
 
